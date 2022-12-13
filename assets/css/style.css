@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: rgba(255, 0, 0, 0.673);
 }
 
 .header {
@@ -17,7 +17,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 50px;
 }
 
 .header h1 .seo {
@@ -47,7 +47,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .hero {
@@ -83,7 +83,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #2a607c;
 }
 
 .benefit-lead {
@@ -139,7 +139,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607c;
     color: #ffffff;
 }
 
@@ -148,7 +148,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607c;
     color: #ffffff;
 }
 
@@ -157,7 +157,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #2a607c;
     color: #ffffff;
 }
 
@@ -175,17 +175,17 @@ p {
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 40px;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 40px;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 40px;
 }
 
 .footer {
